@@ -2,4 +2,6 @@ En este archivo todos tienen que agregar y eliminar una linea
 
 ESTA LÍNEA NO SE DEBE ELIMINAR
 
-ESTA LÍNEA ES LA QUE DEBES ELIIANR
+
+
+Esta es la linea de prueba de la actividad > Fide Moguel
