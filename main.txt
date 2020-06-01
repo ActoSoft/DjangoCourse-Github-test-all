@@ -2,4 +2,4 @@ En este archivo todos tienen que agregar y eliminar una linea
 
 ESTA LÍNEA NO SE DEBE ELIMINAR
 
-ESTA LÍNEA ES LA QUE DEBES ELIIANR
+He agregado una nueva linea de texto, k kreisi
